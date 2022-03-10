@@ -26,3 +26,4 @@ return 0;
   <img width="296" alt="image" src="https://user-images.githubusercontent.com/99497212/157739082-c5bc811b-d9a4-4d47-8d1c-e9cd481d29b7.png">
 9. Проверьте, что история коммитов доступна в удалёный репозитории.
   <img width="883" alt="image" src="https://user-images.githubusercontent.com/99497212/157740881-8ddf58f6-96da-49d8-abb4-9e33e6c20be5.png">
+# TIMP03
