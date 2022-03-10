@@ -1,12 +1,13 @@
 #include <iostream>
 #include <string>
 
-int main()
+int
+main()
 {
-std::string @name;
-std::cout << "Name: ";//comment for users
-std::cin >> @name;//ввод
-std::cout << endl;
-std::cout << "Hello world from " << @name << std::endl;//вывод
-return 0;
+  std::string @name;
+  std::cout << "Name: "; // comment for users
+  std::cin >> @name;     //ввод
+  std::cout << endl;
+  std::cout << "Hello world from " << @name << std::endl; //вывод
+  return 0;
 }
