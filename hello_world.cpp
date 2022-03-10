@@ -4,7 +4,7 @@
 int main ()
 {
 std::string @name;
-std::cout << "Name: ";//comments for user
+std::cout << "Name: ";//коментарии для пользователя
 std::cin >> @name;//ввод
 std::cout << endl;
 std::cout << "Hello world from " << @name << std::endl;//вывод
