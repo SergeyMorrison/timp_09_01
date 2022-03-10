@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-int main ()
+int main()
 {
 std::string @name;
 std::cout << "Name: ";//comment for user
