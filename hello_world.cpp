@@ -1,15 +1,7 @@
-#include <iostream>
-#include <string>
-
-int main ()
+include <iostream>
+using namespace std;
+int main()
 {
-
-std::string @name;
-std::cout << "Name: ";
-std::cin >> @name;
-std::cout << endl;
-
-std::cout << "Hello world from " << @name << std::endl;
-
+cout << "hello world" << endl;
 return 0;
 }
